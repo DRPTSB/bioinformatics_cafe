@@ -11,3 +11,4 @@ Spatial snalysis in python:
 4) [Bin2Cell](https://github.com/Teichlab/bin2cell)
 5) [Gene2Probe](https://github.com/Teichlab/gene2probe)
 6) [TissueTag2](https://github.com/DRPTSB/TissueTag2)
+7) [bfconvert (convert image formats)](https://bio-formats.readthedocs.io/en/stable/users/comlinetools/conversion.html)
